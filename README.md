@@ -1,6 +1,6 @@
 # Template site fictício Finans
 
-## Homepage criada como exercício para o curso de HTML e CSS, somente para fins acadêmicos.
+## Homepage criada como exercício para o curso de HTML e CSS Bootstrap somente para fins acadêmicos.
 
 ### Prints do template construido:
 
